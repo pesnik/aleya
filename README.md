@@ -1,7 +1,7 @@
 # Aleya - Your Caring AI Companion
 
 <div align="center">
-  <-- <img src="/api/placeholder/400/320" alt="Aleya Robot Concept" /> -->
+  // <img src="/api/placeholder/400/320" alt="Aleya Robot Concept" /> 
   <p><i>"Technology with the warmth of a grandmother's care"</i></p>
 </div>
 
